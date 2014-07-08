@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment1.params=
+comment1.target=void\ followPath()
+comment2.params=
+comment2.target=void\ imageOne()
+comment3.params=
+comment3.target=void\ initDirection()
+comment4.params=
+comment4.target=void\ setNextWaypoint()
+comment5.params=
+comment5.target=void\ takeDamage()
+comment6.params=
+comment6.target=int\ getHealth()
+numComments=7

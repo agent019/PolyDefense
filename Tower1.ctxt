@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Tower1()
+comment0.text=\r\n\ Act\ -\ do\ whatever\ the\ Tower1\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ createBomb()
+comment3.params=
+comment3.target=void\ createTower()
+comment4.params=
+comment4.target=void\ placeTower()
+comment5.params=
+comment5.target=void\ showRadius()
+numComments=6

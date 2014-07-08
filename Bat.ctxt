@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment1.params=
+comment1.target=void\ moveToCastle()
+comment2.params=
+comment2.target=void\ takeDamage()
+comment3.params=
+comment3.target=void\ imageTimer()
+comment4.params=
+comment4.target=void\ changeImage()
+numComments=5

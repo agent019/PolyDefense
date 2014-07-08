@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Background3()
+comment1.params=
+comment1.target=void\ prepare()
+comment1.text=\r\n\ Prepare\ the\ world\ for\ the\ start\ of\ the\ program.\ That\ is\:\ create\ the\ initial\r\n\ objects\ and\ add\ them\ to\ the\ world.\r\n
+comment2.params=x
+comment2.target=void\ addScore(int)
+comment3.params=
+comment3.target=int\ getScore()
+comment4.params=hp
+comment4.target=void\ subtractHealth(int)
+comment5.params=
+comment5.target=void\ spawnEnemies()
+comment6.params=
+comment6.target=void\ act()
+comment7.params=
+comment7.target=void\ gameOver()
+comment8.params=
+comment8.target=void\ victory()
+numComments=9

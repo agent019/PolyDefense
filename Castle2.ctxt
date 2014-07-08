@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Castle2()
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ takeDamage()
+comment3.params=
+comment3.target=void\ checkDeath()
+comment4.params=
+comment4.target=int\ getScore()
+comment5.params=x
+comment5.target=void\ addScore(int)
+comment6.params=x
+comment6.target=void\ setScore(int)
+numComments=7
